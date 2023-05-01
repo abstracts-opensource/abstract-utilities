@@ -1,0 +1,17 @@
+{
+    "name": "abstract/utilities",
+    "description": "Utilities for Abstract",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ab\\Utilities\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abstracts",
+            "email": "developers@abstract.codes"
+        }
+    ],
+    "require": {}
+}
