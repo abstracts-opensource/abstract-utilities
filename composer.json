@@ -1,6 +1,7 @@
 {
     "name": "abstract/utilities",
     "description": "Utilities for Abstract",
+    "license": "proprietary",
     "type": "library",
     "autoload": {
         "psr-4": {
